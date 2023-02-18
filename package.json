@@ -1,0 +1,16 @@
+{
+  "name": "tdd-excersices",
+  "version": "1.0.0",
+  "description": "exercises of js resolved using TDD methodology",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+"coverage": "vitest run --coverage"
+  },
+  "author": "sergio cruz",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.28.5"
+  }
+}
